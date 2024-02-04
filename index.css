@@ -40,4 +40,6 @@ div{
     background-color: rgba(255,255,255,0.5);
     border:2px solid black;
     width: 50%;
+    margin:0 auto;
+    margin-top:100px;
 }
